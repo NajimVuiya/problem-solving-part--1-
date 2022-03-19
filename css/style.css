@@ -1,0 +1,16 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-color: #9e9e9ed4;
+}
+
+#unique
+{
+	margin: 0;
+	padding: 8px;
+	text-align: center;
+	color: #efefef;
+	background-color: #000;
+}
+
